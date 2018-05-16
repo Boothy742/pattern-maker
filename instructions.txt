@@ -1,0 +1,12 @@
+First time after making repository
+git clone <link> <folder>
+e.g. git clone https://github.com/Boothy742/pattern-maker.git pattern-maker/
+
+Change files
+
+(git status)
+git stage --all
+
+git commit -m "<message>"
+
+git push
